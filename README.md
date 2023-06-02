@@ -14,34 +14,34 @@
 2.6 **JSX part Two**
   
 ### 3. State
-3.0 **Understanding State**
-3.1 **setState part One**
-3.2 **setState part Two**
-3.3 **Recap**
-3.4 **State Functions**
-3.5 **Inputs and State**
-3.6 **State Practice part One**
-3.7 **State Practice part Two**
-3.8 **Recap**
-3.9 **Final Practice and Recap
+3.0 **Understanding State**  
+3.1 **setState part One**  
+3.2 **setState part Two**  
+3.3 **Recap**  
+3.4 **State Functions**  
+3.5 **Inputs and State**   
+3.6 **State Practice part One**  
+3.7 **State Practice part Two**  
+3.8 **Recap**  
+3.9 **Final Practice and Recap  
 
 ### 4. Props 
-4.0 **Props**
-4.1 **Memo**
-4.2 **Prop Types**
-4.3 **Recap**
+4.0 **Props**  
+4.1 **Memo**  
+4.2 **Prop Types**  
+4.3 **Recap**  
 
 ### 5. Create React App
-5.0 **Introduction**
-5.1 **Tour of CRA**
+5.0 **Introduction**  
+5.1 **Tour of CRA**  
 
 
 ### 6. Effects
-6.0 **Introduction**
-6.1 **useEffect**
-6.2 **Deps**
-6.3 **Recap**
-6.4 **Cleanup**
+6.0 **Introduction**  
+6.1 **useEffect**  
+6.2 **Deps**  
+6.3 **Recap**  
+6.4 **Cleanup**  
 
 
 
